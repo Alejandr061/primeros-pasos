@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<comics>
+     <comic1>
+         <nombre>Spider-Man</nombre>
+         <titulo autor="Stan Lee i Steve Ditko">The Amazing Spider-Man #1</titulo>
+         <any_de_publicació>1963</any_de_publicació>
+         <editorial>Marvel Comics</editorial>
+     </comic1>
+     <comic2>
+         <nombre>Batman</nombre>
+         <titulo autor="Frank Miller i David Mazzucchelli">Any Un</titulo>
+         <any_de_publicació>1987</any_de_publicació>
+         <editorial genere="Superheroi">DC Comics</editorial>
+     </comic2>
+     <comic3>
+         <nombre>X-Men</nombre>
+         <titulo autor="Stan Lee i Jack Kirby">X-Men #1</titulo>
+         <any_de_publicació>1963</any_de_publicació>
+         <editorial>Marvel Comics</editorial>
+         <pagines>32</pagines>
+     </comic3>
+     <comics4>
+         <nombre>Wonder Woman</nombre>
+         <titulo autor="Brian Azzarello i Cliff Chiang">Wonder Woman Vol. 1: Blood</titulo>
+         <any_de_publicació>2012</any_de_publicació>
+         <editorial genere="Superheroi">DC Comics</editorial>
+         <premis>Eisner Award 2013</premis>
+     </comics4>
+</comics>
